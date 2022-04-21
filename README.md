@@ -22,6 +22,11 @@
   <a href = "mailto:riklima111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-lima-menezes-das-neves-715253204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+   ##
+  
+  ![68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966](https://user-images.githubusercontent.com/62913144/164561476-e453e0e0-4842-4954-8404-3d378e1415c2.gif)
+
+  
  ![Snake animation](https://github.com/Henriqueiru/Henriqueiru/blob/output/github-contribution-grid-snake.svg)
  
 </div>
