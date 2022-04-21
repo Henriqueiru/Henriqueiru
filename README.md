@@ -25,3 +25,8 @@
  ![Snake animation](https://github.com/Henriqueiru/Henriqueiru/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  <h3><p align="center">Total de visitas no perfil:</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/Henriqueiru/count.svg"/>
+</p>
