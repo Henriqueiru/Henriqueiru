@@ -1,4 +1,11 @@
-##    Oiii eu sou o Henrique Lima ✔!
+<h1 align="center">A little bit of me for you. 🚀Study as much as you can so get far<br><br></h1>
+<p align="center">
+<a href="https://app.daily.dev/Henriqueiru"><img src="https://api.daily.dev/devcards/226b42d6a6fa49fc9ddc880dde6cce63.png?r=y1b" width="400" alt="Henrique Lima Menezes das Neves's Dev Card"/></a></a>
+</br>
+<p align="center">
+ 💎 💎 💎 </br>
+ Let's learn and grow my skills from a technical standpoint ! <br>
+</p>
 <div align="center">
   <a href="https://github.com/Henriqueiru">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriqueiru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
