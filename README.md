@@ -6,6 +6,7 @@
  💎 💎 💎 </br>
  Let's learn and grow my skills from a technical standpoint ! <br>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" />
 <div align="center">
   <a href="https://github.com/Henriqueiru">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henriqueiru&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -42,3 +43,4 @@
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/Henriqueiru/count.svg"/>
 </p>
+ 
