@@ -1,6 +1,6 @@
 <h2 align="center">A little bit of me for you. 🚀Study as much as you can so get far<br><br></h2>
 <p align="center">
-<a href="https://app.daily.dev/Henriqueiru"><img src="https://api.daily.dev/devcards/226b42d6a6fa49fc9ddc880dde6cce63.png?r=5pa" width="400" alt="Henrique Lima Menezes das Neves's Dev Card"/></a></br>
+<a href="https://app.daily.dev/Henriqueiru"><img src="https://api.daily.dev/devcards/226b42d6a6fa49fc9ddc880dde6cce63.png?r=8em" width="400" alt="Henrique Lima Menezes das Neves's Dev Card"/></a></br>
 <p align="center">
  💎 💎 💎 </br>
  Let's learn and grow my skills from a technical standpoint ! <br>
